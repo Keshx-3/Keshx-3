@@ -15,8 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-![AZ-900 Certification Badge](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main)
-
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="AZ-900 Certification Badge" width="100">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Keshx-3&icon=0&color=0)](https://visitcount.itsvg.in)
