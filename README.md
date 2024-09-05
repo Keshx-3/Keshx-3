@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavadas3) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2300B9E4.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kesavadas3)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%23006EB8.svg?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/kesavadas-4134/)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%23006EB8.svg?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/kesavadas-4134/credentials?tab=credentials-tab)
 
 
 # 💻 Tech Stack:
