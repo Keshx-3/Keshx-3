@@ -17,7 +17,7 @@
 <div>
   <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="AZ-900 Certification Badge" width="100" style="margin-right: 20px; vertical-align: middle;">
   <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="OCI 2024 Generative AI Certified Professional Badge" height="100" style="margin-right: 20px; vertical-align: middle;">
-  <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" alt="Python Badge" height="100" style="vertical-align: middle;">
+  <img src="https://media.licdn.com/dms/image/v2/D5622AQEpOjgma5SSug/feedshare-shrink_800/feedshare-shrink_800/0/1716311459481?e=2147483647&v=beta&t=7j8bVguAKLJt9IrMKEFxYph5oNe2X76VPX9iBBHoSRE" alt="Python Badge" height="100" style="vertical-align: middle;">
 </div>
 
 
