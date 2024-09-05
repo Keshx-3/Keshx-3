@@ -15,6 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+![AZ-900 Certification Badge]([https://your-image-url.com](https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png))
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Keshx-3&icon=0&color=0)](https://visitcount.itsvg.in)
 
