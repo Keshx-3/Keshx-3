@@ -15,7 +15,8 @@
 ## Certifications
 
 <div>
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="AZ-900 Certification Badge" width="100" style="margin-right: 20px; vertical-align: middle;">
+  <img src="![image](https://github.com/user-attachments/assets/d789b157-1da4-4c71-8490-14e7c444dcc4)
+" alt="AZ-900 Certification Badge" width="100" style="margin-right: 20px; vertical-align: middle;">
   <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="OCI 2024 Generative AI Certified Professional Badge" height="100" style="vertical-align: middle;">
 </div>
 
