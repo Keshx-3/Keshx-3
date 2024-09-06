@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Kesavadas<br>👀 I’m interested in Data Science, Generative AI, Cloud Computing, and Machine Learning<br>🌱 I’m currently learning Data Science, Cloud and building projects on Machine Learning and AI.<br>💞️ I’m looking to collaborate on AI/ML projects, Data Science case studies, and innovative cloud solutions.<br>📫 How to reach me: kesavadaskesh@gmail.com<br>⚡ Fun fact: I have won 2nd place in the Google AI Campus Fest for a facial expression recognition model.
+👋 Hi, I’m Kesavadas<br>👀 I’m interested in Data Science, Generative AI, Cloud Computing, and Machine Learning<br>🌱 I’m currently learning Data Science, Cloud and building projects on Machine Learning and AI.<br> I’m looking to collaborate on AI/ML projects, Data Science case studies, and innovative cloud solutions.<br>📫 How to reach me: kesavadaskesh@gmail.com<br>⚡ Fun fact: I have won 2nd place in the Google AI Campus Fest for a facial expression recognition model.
 
 
 ## 🌐 Socials:
