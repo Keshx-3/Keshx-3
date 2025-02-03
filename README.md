@@ -1,5 +1,7 @@
 ## 🚀 **Kesavadas | Data Scientist in the Making**  
 
+```diff
++ ⚡ AI Explorer | ML Engineer | Cloud Enthusiast 🚀
 ```
 
 <p align="center">
@@ -60,7 +62,7 @@
 
 🔹 [SIGNSENSE](https://github.com/Keshx-3/SIGNSENSE) - AI-powered Sign Language Recognition 🤟  
 🔹 [Healthcare Premium Prediction](https://github.com/Keshx-3/Healthcare_Premium_Predictor) - ML Model for Predicting Premium Costs 🏥  
-🔹 [Credit Risk Analyzer](https://github.com/Keshx-3/Credit_Risk_Analyzer) - AI for Financial Risk Assessment 💰   
+🔹 [Credit Risk Analyzer](https://github.com/Keshx-3/Credit_Risk_Analyzer) - AI for Financial Risk Assessment 💰  
 
 ---
 
