@@ -1,19 +1,19 @@
-## 🚀 **Kesavadas | Data Scientist in the Making**  
+## 🚀 **<span class="glitch" data-text="Kesavadas">Kesavadas</span> | AI/ML Engineer in the Making** 
 
 ```diff
 + ⚡ AI Explorer | ML Engineer | Cloud Enthusiast | Future AI Architect 🚀
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;MLOps+Learner;AI+For+Good+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;MLOps+Learner;AI+Freak" />
 </p>
 
 ---
 
 ### 🌌 **About Me**
 
-🔭 **Always Learning:** Deep Learning | MLOps | Generative AI  
-🎯 **Currently Experimenting With:** MLflow + DAGsHub | Text Summarization | AI Model Deployment  
+🔭 **Always Learning:** Machine Learning | Deep Learning | MLOps | Generative AI  
+🎯 **Currently Experimenting With:** MLflow + DAGsHub | AI Model Deployment  
 🌍 **Passionate About:** Leveraging AI to drive real-world impact  
 😎 **Fun Fact:** I once built a chatbot that doubled as a shopping assistant! 🤖🛍️  
 
@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/kesavadas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kesavadaskesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
