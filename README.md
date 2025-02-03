@@ -1,9 +1,5 @@
 ## 🚀 **Kesavadas | Data Scientist in the Making**  
 
-```diff
-+ ⚡ AI Explorer | ML Engineer | Cloud Enthusiast 🚀
-```
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;AI+Freak;MLOps+Learner" />
 </p>
@@ -85,6 +81,11 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Keshx-3&theme=react-dark" width="90%">
 </p>  
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Keshx-3&theme=react-dark&hide_border=true" width="90%">
+</p>
+
 
 ---
 
