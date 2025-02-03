@@ -1,57 +1,58 @@
-## 🚀 **<span class="glitch" data-text="Kesavadas">Kesavadas</span> | Data Scientist in the Making**  
+## 🚀 **Kesavadas | Data Scientist in the Making**  
 
-```diff
-+ ⚡ AI Explorer | ML Engineer | Cloud Enthusiast | Future AI Architect 🚀
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;MLOps+Learner;AI+For+Good+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;AI+Freak;MLOps+Learner" />
 </p>
 
 ---
 
-<style>
-  .glitch {
-    font-size: 2em;
-    font-weight: bold;
-    position: relative;
-    color: #0ff;
-    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #00f, 0 0 40px #00f;
-    animation: glitch 1s infinite;
-  }
-  @keyframes glitch {
-    0% { text-shadow: 2px 2px #ff00ff, -2px -2px #00ffff; }
-    50% { text-shadow: -2px -2px #ff00ff, 2px 2px #00ffff; }
-    100% { text-shadow: 2px 2px #ff00ff, -2px -2px #00ffff; }
-  }
-</style>
+### 🌌 **About Me**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100%">
-</p>
-
-## 🌌 **About Me**
-
-🔭 **Always Learning:** Deep Learning | MLOps | Generative AI  
-🎯 **Currently Experimenting With:** MLflow + DAGsHub | Text Summarization | AI Model Deployment  
-🌍 **Passionate About:** Leveraging AI to drive real-world impact  
-😎 **Fun Fact:** I once built a chatbot that doubled as a shopping assistant! 🤖🛍️  
+🔭 **Always Learning:** Machine Learning | Deep Learning | MLOps | Generative AI  
+🎯 **Currently Experimenting With:** MLflow + DAGsHub | AI Model Deployment  
+🌍 **Passionate About:** Leveraging AI to drive real-world impact    
 
 ---
 
 ## 🌐 **Connect with Me**  
 
 <p align="center">
-  <a href="https://github.com/Keshx-3" style="transition: all 0.3s;"> 
+  <a href="https://github.com/Keshx-3">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/kesavadas/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kesavadaskesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+---
+
+## 💻 **Tech Stack & Skills**  
+
+### 🚀 **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🔥 **AI & ML Frameworks**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDC62?style=for-the-badge&logo=hugging-face&logoColor=black)
+
+### ☁️ **Cloud & MLOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DAGsHub](https://img.shields.io/badge/DAGsHub-FF4081?style=for-the-badge&logo=data:image/png;base64,R0lGODdhAQABAPAAAP//...")
+
+### 📊 **Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
 
 ---
 
@@ -59,8 +60,7 @@
 
 🔹 [SIGNSENSE](https://github.com/Keshx-3/SIGNSENSE) - AI-powered Sign Language Recognition 🤟  
 🔹 [Healthcare Premium Prediction](https://github.com/Keshx-3/Healthcare_Premium_Predictor) - ML Model for Predicting Premium Costs 🏥  
-🔹 [Credit Risk Analyzer](https://github.com/Keshx-3/Credit_Risk_Analyzer) - AI for Financial Risk Assessment 💰  
-🔹 **Text Summarization (NLP)** - AI-powered text summarization 📜 (Coming Soon!)  
+🔹 [Credit Risk Analyzer](https://github.com/Keshx-3/Credit_Risk_Analyzer) - AI for Financial Risk Assessment 💰   
 
 ---
 
@@ -90,11 +90,6 @@
 
 💬 **Quote:**  
 _"AI is not just about data—it's about creating the future, one model at a time."_ 🚀  
-
-🎵 **Now Playing:**  
-[![Spotify](https://novatorem-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/yourSpotifyID)  
-
-🔥 **Custom Badges & Futuristic UI Coming Soon!**  
 
 ---
 
