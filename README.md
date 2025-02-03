@@ -79,13 +79,8 @@
 </p>  
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Keshx-3&theme=react-dark" width="90%">
-</p>  
-
-<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Keshx-3&theme=react-dark&hide_border=true" width="90%">
 </p>
-
 
 ---
 
