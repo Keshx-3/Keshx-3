@@ -1,36 +1,109 @@
-# 💫 About Me:
-👋 Hi, I’m Kesavadas<br>👀 I’m interested in Data Science, Generative AI, Cloud Computing, and Machine Learning<br>🌱 I’m currently learning Data Science, Cloud and building projects on Machine Learning and AI.<br> I’m looking to collaborate on AI/ML projects, Data Science case studies, and innovative cloud solutions.<br>📫 How to reach me: kesavadaskesh@gmail.com<br>⚡ Fun fact: I have won 2nd place in the Google AI Campus Fest for a facial expression recognition model.
+## 🚀 **Kesavadas | Data Scientist in the Making**  
 
+```diff
++ ⚡ AI Explorer | ML Engineer | Cloud Enthusiast | Future AI Architect 🚀
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kesavadas3) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2300B9E4.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kesavadas3)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-%23006EB8.svg?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/kesavadas-4134/credentials?tab=credentials-tab)
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Keshx-3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Keshx-3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshx-3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Certifications
-
-<div>
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" alt="AZ-900 Certification Badge" width="100" style="margin-right: 20px; vertical-align: middle;">
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="OCI 2024 Generative AI Certified Professional Badge" height="100" style="vertical-align: middle;">
-</div>
-
-
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Enthusiast;Machine+Learning+Practitioner;MLOps+Learner;AI+For+Good+Advocate" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Keshx-3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌌 **About Me**
+
+🔭 **Always Learning:** Deep Learning | MLOps | Generative AI  
+🎯 **Currently Experimenting With:** MLflow + DAGsHub | Text Summarization | AI Model Deployment  
+🌍 **Passionate About:** Leveraging AI to drive real-world impact  
+😎 **Fun Fact:** I once built a chatbot that doubled as a shopping assistant! 🤖🛍️  
+
+---
+
+## 🌐 **Connect with Me**  
+
+<p align="center">
+  <a href="https://github.com/Keshx-3">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/kesavadas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 💻 **Tech Stack & Skills**  
+
+### 🚀 **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🔥 **AI & ML Frameworks**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFDC62?style=for-the-badge&logo=hugging-face&logoColor=black)
+
+### ☁️ **Cloud & MLOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DAGsHub](https://img.shields.io/badge/DAGsHub-FF4081?style=for-the-badge&logo=data:image/png;base64,R0lGODdhAQABAPAAAP//...")
+
+### 📊 **Data Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
+
+---
+
+## 🚀 **Highlighted Projects**  
+
+🔹 [SIGNSENSE](https://github.com/Keshx-3/SIGNSENSE) - AI-powered Sign Language Recognition 🤟  
+🔹 [Healthcare Premium Prediction](https://github.com/Keshx-3/Healthcare_Premium_Predictor) - ML Model for Predicting Premium Costs 🏥  
+🔹 [Credit Risk Analyzer](https://github.com/Keshx-3/Credit_Risk_Analyzer) - AI for Financial Risk Assessment 💰  
+🔹 **Text Summarization (NLP)** - AI-powered text summarization 📜 (Coming Soon!)  
+
+---
+
+## 🏆 **Certifications & Achievements**  
+
+- ✅ Oracle Cloud Infrastructure 2024 **Generative AI Certified**  
+- ✅ Microsoft **AZ-900: Azure Fundamentals**  
+- ✅ Microsoft **DP-900: Data Fundamentals**  
+- 🏅 **2nd Place** - AI Facial Expression Recognition Hackathon 🏆  
+
+---
+
+## 🔥 **GitHub Stats & Activity**  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshx-3&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keshx-3&show_icons=true&theme=radical&hide_border=true" width="48%">
+</p>  
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Keshx-3&theme=react-dark" width="90%">
+</p>  
+
+---
+
+## ⚡ **Fun Extras**  
+
+💬 **Quote:**  
+_"AI is not just about data—it's about creating the future, one model at a time."_ 🚀  
+
+🎵 **Now Playing:**  
+[![Spotify](https://novatorem-ashy.vercel.app/api/spotify)](https://open.spotify.com/user/yourSpotifyID)  
+
+🔥 **Custom Badges & Futuristic UI Coming Soon!**  
+
+---
+
+## 🚀 **Let's Collaborate & Build the Future!**  
+
+👾 **Got a cool AI idea?** Let’s brainstorm!  
+📩 **Reach out via GitHub or LinkedIn!**  
