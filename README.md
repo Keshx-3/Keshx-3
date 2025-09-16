@@ -16,11 +16,9 @@
 
 
 
-🔭 **Always Learning:** Machine Learning | Deep Learning | MLOps | Generative AI  
-
-🎯 **Currently Experimenting With:** Deep Learning | AI Model Deployment  
-
-🌍 **Passionate About:** Leveraging AI to drive real-world impact    
+**Always Learning:** Machine Learning | Deep Learning | NLP | Generative AI  
+**Currently Experimenting With:** Deep Learning | AI Model Deployment  
+**Passionate About:** Leveraging AI to drive real-world impact    
 
 
 
@@ -44,7 +42,7 @@
 
 ## 💻 **Tech Stack & Skills**  
 
-### 🚀 **Programming Languages**  
+### 🐍 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ### 🔥 **AI & ML Frameworks**  
