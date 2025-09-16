@@ -1,4 +1,4 @@
-## 🚀 **Kesavadas | AI/ML Engineer in the making...**  
+## **KESAVADAS | AI/ML Engineer in the making...**  
 
 
 
