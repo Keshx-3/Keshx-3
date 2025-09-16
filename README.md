@@ -16,9 +16,9 @@
 
 
 
-**Always Learning:** Machine Learning | Deep Learning | NLP | Generative AI  
-**Currently Experimenting With:** Deep Learning | AI Model Deployment  
-**Passionate About:** Leveraging AI to drive real-world impact    
+ **Always Learning:** Machine Learning | Deep Learning | NLP | Generative AI  
+ **Currently Experimenting With:** Deep Learning | AI Model Deployment  
+ **Passionate About:** Leveraging AI to drive real-world impact    
 
 
 
