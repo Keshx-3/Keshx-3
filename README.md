@@ -18,7 +18,7 @@
 
 🔭 **Always Learning:** Machine Learning | Deep Learning | MLOps | Generative AI  
 
-🎯 **Currently Experimenting With:** MLflow + DAGsHub | AI Model Deployment  
+🎯 **Currently Experimenting With:** Deep Learning | AI Model Deployment  
 
 🌍 **Passionate About:** Leveraging AI to drive real-world impact    
 
