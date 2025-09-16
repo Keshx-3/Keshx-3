@@ -106,7 +106,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshx-3&theme=radical&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api?username=Keshx-3&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Keshx-3&theme=react-dark&hide_border=true" width="90%">
 </p>  
 
 
@@ -120,7 +119,7 @@
 
 💬 **Quote:**  
 
-_"AI is not just about data—it's about creating the future, one model at a time."_ 🚀  
+_"AI is not just about data, it's about creating the future, one model at a time."_ 🚀  
 
 
 
