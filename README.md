@@ -25,7 +25,7 @@ I enjoy building **scalable APIs**, designing **clean system architectures**, in
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://github.com/Keshx-3" target="blank"><img src="[https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7GWEbGoUYYwhuamui21t8_TjTQIwYtmHWkg&s)" alt="Keshx-3" height="30" width="40"></a>
 <a href="https://linkedin.com/in/kesavadas3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kesavadas3" height="30" width="40" /></a>
 </p>
 
