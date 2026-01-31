@@ -17,8 +17,7 @@
 
 I’m a **Computer Science Engineer** focused on becoming a **production-ready AI Backend Engineer**.
 
-I enjoy building **scalable APIs**, designing **clean system architectures**, and integrating **Generative AI** into real-world backend systems — not just notebooks.
-
+I enjoy building **scalable APIs**, designing **clean system architectures**, and integrating **AI** into real-world backend systems.
 - 🧠 Strong CS fundamentals (OOP, DBs, OS, Networking)
 - 🛠 Backend-first mindset with AI as a system component
 - ☁️ Cloud & deployment focused
