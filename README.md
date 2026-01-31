@@ -1,9 +1,9 @@
-## **KESAVADAS | AI Engineer in the making...**  
+## **KESAVADAS | AI Backend Engineer in the Making...**  
 
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=Data+Science;Machine+Learning;Deep+Learning;Natural+Language+Processing;Agentic+AI;Backend;Cloud;System+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=%23F7F7F7&center=true&vCenter=true&width=600&height=50&lines=AI+Backend+Engineering;Scalable+APIs+%26+Microservices;Cloud+%7C+System+Design+%7C+GenAI;Learning+by+Building+Real+Systems" />
 </p>
 
 
