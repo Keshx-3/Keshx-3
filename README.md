@@ -12,15 +12,17 @@
 
 
 
-### 🌌 **About Me**
+### **About Me**
 
 
+I’m a **Computer Science Engineer** focused on becoming a **production-ready AI Backend Engineer**.
 
- **Always Learning:** Machine Learning | Deep Learning | NLP | Generative AI  
- 
- **Currently Experimenting With:** Deep Learning | AI Model Deployment  
- 
- **Passionate About:** Leveraging AI to drive real-world impact    
+I enjoy building **scalable APIs**, designing **clean system architectures**, and integrating **Generative AI** into real-world backend systems — not just notebooks.
+
+- 🧠 Strong CS fundamentals (OOP, DBs, OS, Networking)
+- 🛠 Backend-first mindset with AI as a system component
+- ☁️ Cloud & deployment focused
+- 🧪 Learning by building, breaking, and fixing real systems
 
 
 
